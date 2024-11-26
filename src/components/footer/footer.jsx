@@ -1,7 +1,7 @@
 
 export default function Footer() {
   return (
-    <div className="bg-[#1E1F25] w-[100%] md:h-[450px] h-[600px] md:pt-2 ">
+    <div className="bg-[#1E1F25] w-[100%] md:h-[450px] h-[600px] md:pt-2 max-w-[1500px]">
       <div className="flex md:justify-between md:m-10 md:flex-nowrap flex-wrap justify-center mt-10">
         <img className="mb-10 md:mb-0" src="./src/assets/logo.svg" alt="" />
         <img src="./src/assets/inst-tg-wots.svg" alt="" />
