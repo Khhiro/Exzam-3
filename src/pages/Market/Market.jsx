@@ -12,8 +12,7 @@ export default function Market() {
           <p className="text-gray-400">It is a long established fact that a reader will be distracted by the readable content of a page when <br />
             looking at its layout.</p><br />
           <div className="flex md:w-[50%] justify-evenly">
-            <Button variant="contained">Start Now</Button>
-            <Button variant="text">Beginner’s Guide</Button>
+        
           </div>
         </div>
         <div className="right">
